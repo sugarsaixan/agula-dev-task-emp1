@@ -6,7 +6,7 @@
 |---|---|
 | **Хугацаа** | 3 хоног (72 цаг) |
 | **Ашиглах хэл** | Python (FastAPI/Flask) эсвэл JavaScript/TypeScript (Node.js/Express) — сонголтоор |
-| **Өгөгдлийн сан** | SQLite эсвэл JSON файл (сонголтоор) |
+| **Өгөгдлийн сан** | SQLite/Postgresql эсвэл JSON файл (сонголтоор) |
 | **Илгээх хэлбэр** | Нийтэд нээлттэй GitHub repository-ийн холбоос + README.md |
 
 ### Үйл ажиллагааны тухай
